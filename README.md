@@ -2,7 +2,7 @@ Exercício do bootcamp da rocketseat, criação do front-end de uma loja virtual
 
 # Tecnologias utilizadas
 
-## _Itálico_ ReactJs
+## _Itálico_ ReactJs + REDUX SAGA APLICADO NO GERENCIAMENTO DO CARRINHO DE COMPRAS
 
 ##### _Itálico_ Principais bibliotecas instaladas
 
