@@ -2,7 +2,7 @@ Exercício do bootcamp da rocketseat, criação do front-end de uma loja virtual
 
 # Tecnologias utilizadas
 
-### ReactJs + REDUX SAGA APLICADO NO GERENCIAMENTO DO CARRINHO DE COMPRAS
+### ReactJs + Redux Saga aplicado no gerenciamento do carrinho de compras
 
 ##### Principais bibliotecas instaladas
 
@@ -23,9 +23,7 @@ Exercício do bootcamp da rocketseat, criação do front-end de uma loja virtual
 "redux-saga": "^1.1.3",<br>
 "styled-components": "^4.4.1"<br>
 
-## Execução
+### Execução
 
-...
 yarn start - (ReactJs Front-End)<br>
 json-server server.json -p 3333 -w - (Simulador da API)<br>
-...
