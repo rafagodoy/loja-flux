@@ -22,3 +22,8 @@ Exercício do bootcamp da rocketseat, criação do front-end de uma loja virtual
 "redux": "^4.0.5",
 "redux-saga": "^1.1.3",
 "styled-components": "^4.4.1"
+
+## Execução
+
+yarn start - (ReactJs Front-End)
+json-server server.json -p 3333 -w - (Simulador da API)
